@@ -1,0 +1,19 @@
+{
+  "BookID": 11,
+  "RoomID": 1,
+  "Name": "สถาพร ไชยเจริญ",
+  "Code": "6308002   ",
+  "Company": "SCAN",
+  "Tel": "-",
+  "Timestamp": "2022-10-05 12:45:00.317",
+  "StartDatetime": "2022-10-06 08:00:00.000",
+  "EndDatetime": "2022-10-06 09:30:00.000",
+  "Purpose": "จองประชุม",
+  "Action": "booking",
+  "Status": "approved",
+  "RoomName": "ห้องประชุมเก้าอี้ดำ",
+  "RoomLevel": "vip",
+  "Amount": 15,
+  "Detail": "ตึกเกิดหลิน ชั้น 2",
+  "PicturePath": ""
+}

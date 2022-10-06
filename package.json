@@ -7,7 +7,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "million": "^1.12.4"
+    "@chakra-ui/react": "^2.3.5",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@reduxjs/toolkit": "^1.8.5",
+    "axios": "^1.0.0",
+    "framer-motion": "^7.5.2",
+    "million": "^1.12.4",
+    "react-redux": "^8.0.4",
+    "react-router-dom": "^6.4.2",
+    "sweetalert2": "^11.4.37"
   },
   "devDependencies": {
     "vite": "^3.0.2"
